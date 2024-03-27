@@ -15,7 +15,7 @@ const Product = ({ params }: { params: IPrams }) => {
       <Container>
         <ProductDetails product={product} />
         <div className="flex flex-col mt-20 gap-4">
-          <div>ADD Rating</div>
+          <div></div>
           <ListRating product={product} />
         </div>
       </Container>

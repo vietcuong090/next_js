@@ -137,7 +137,7 @@ const ProductDetails: React.FC<ProductDetailsProps> = ({ product }) => {
               <MdCheckCircle className="text-teal-400" size={20} />
               <span>Product added to cart</span>
             </p>
-            <div className="max-h-[200px]">
+            <div className="max-h-[300px]">
               <Button
                 lable="VieW Cart"
                 outline
